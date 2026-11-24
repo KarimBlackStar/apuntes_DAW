@@ -98,10 +98,10 @@ Lista de verificaciones que debe completar quien despliega el proyecto:
 - [Documentación oficial de Nginx](https://nginx.org/en/docs/)
 - [Documentación oficial de Redis](https://redis.io/docs/latest/)
 
-![img.png](img.png)
+![img100.png](img100.png)
 
-![img_1.png](img_1.png)
+![img101.png](img101.png)
 
-![img_2.png](img_2.png)
+![img102.png](img102.png)
 
-![img_3.png](img_3.png)
+![img103.png](img103.png)
